@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Hello world
+- Recent movies
+- Recent TV
+  - Counterparts
+  - Gothamn
+  - Game of thrones
+  - Westworld
